@@ -2,4 +2,4 @@
 
 ## Mencari Keliling dan luas lingkaran
 ini adalah tampilannya
-![Gambar]!(screenshot/ss.png)
+![Gambar 1](screenshot/ss.png)
